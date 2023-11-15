@@ -10,4 +10,18 @@
 2. running device -> right mouse -> view mode -> window
 
 ## 클래스 세팅
+1. dart data class 플러그인 설치
+2. 기본 형태의 클래스 작성
+```
+class TestModel {
+  final String test1;
+  final String test2;
 
+  const TestModel({
+    required this.test1,
+    required this.test2
+  });
+}
+```
+3. 'alt'+'insert' -> toMap() and fromMap() -> ok
+4. 'alt'+'insert' -> copy -> ok
