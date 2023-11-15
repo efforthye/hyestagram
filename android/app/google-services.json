@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006826058975",
+    "project_id": "hyestagram-flutter",
+    "storage_bucket": "hyestagram-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006826058975:android:60b948bd4771a33047256a",
+        "android_client_info": {
+          "package_name": "com.efforthye.hyestagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2C6lYx0t1pIC3Dop-IhEMtL79XoBTEZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

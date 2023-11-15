@@ -1,4 +1,4 @@
-package com.efforthye.hyestagram.client
+package com.efforthye.hyestagram
 
 import io.flutter.embedding.android.FlutterActivity
 

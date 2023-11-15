@@ -37,6 +37,10 @@ dependencies:
   cupertino_icons: ^1.0.2
   agent_dart: ^0.1.24+1
   agent_dart_auth: ^0.0.2
+  firebase_core: ^2.22.0
+  firebase_auth: ^4.14.0
+  firebase_storage: ^11.5.1
+  cloud_firestore: ^4.13.1
 
 dev_dependencies:
   flutter_test:
